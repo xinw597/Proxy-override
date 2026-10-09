@@ -1,9 +1,9 @@
 # ProxyOverride
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Elissend/Proxy-override?style=flat)](https://github.com/Elissend/Proxy-override/stargazers)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Elissend/Proxy-override?style=flat)
-[![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/Elissend/Proxy-override/badge?style=rounded)](https://www.jsdelivr.com/package/gh/Elissend/Proxy-override)
-[![CI](https://img.shields.io/github/actions/workflow/status/Elissend/Proxy-override/ci.yml?branch=main&label=CI&style=flat)](https://github.com/Elissend/Proxy-override/actions/workflows/ci.yml)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Elissend/Proxy-override?style=flat)](https://github.com/xinw597/Proxy-override/stargazers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/xinw597/Proxy-override?style=flat)
+[![jsDelivr hits](https://data.jsdelivr.com/v1/package/gh/xinw597/Proxy-override/badge?style=rounded)](https://www.jsdelivr.com/package/gh/xinw597/Proxy-override)
+[![CI](https://img.shields.io/github/actions/workflow/status/xinw597/Proxy-override/ci.yml?branch=main&label=CI&style=flat)](https://github.com/xinw597/Proxy-override/actions/workflows/ci.yml)
 
 Mihomo 分流配置,提供 JavaScript 覆写脚本与独立 YAML 模板两种形态。导入后自动生成策略组、分流规则、远程规则集与加密 DNS,开箱即用。
 
@@ -40,11 +40,11 @@ Mihomo 分流配置,提供 JavaScript 覆写脚本与独立 YAML 模板两种形
 脚本地址(二选一):
 
 ```text
-https://raw.githubusercontent.com/Elissend/Proxy-override/main/proxy-override.js
+https://raw.githubusercontent.com/xinw597/Proxy-override/main/proxy-override.js
 ```
 
 ```text
-https://fastly.jsdelivr.net/gh/Elissend/Proxy-override@main/proxy-override.js
+https://fastly.jsdelivr.net/gh/xinw597/Proxy-override@main/proxy-override.js
 ```
 
 > [!TIP]

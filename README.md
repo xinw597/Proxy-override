@@ -168,7 +168,7 @@ Web 面板(如 [metacubexd](https://metacubex.github.io/metacubexd/))连接 `127
 
 ## 反馈
 
-分流有误伤或遗漏时欢迎提 [Issue](https://github.com/Elissend/Proxy-override/issues):附上目标域名、「连接」页命中的规则和策略组,能大幅加快定位。
+分流有误伤或遗漏时欢迎提 [Issue](https://github.com/xinw597/Proxy-override/issues):附上目标域名、「连接」页命中的规则和策略组,能大幅加快定位。
 
 ## 致谢
 
@@ -184,4 +184,4 @@ Web 面板(如 [metacubexd](https://metacubex.github.io/metacubexd/))连接 `127
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Elissend/Proxy-override&type=Date)](https://star-history.com/#Elissend/Proxy-override&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xinw597/Proxy-override&type=Date)](https://star-history.com/#xinw597/Proxy-override&Date)
